@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">a6bcae03-dbd4-406e-aeb6-a4aed5d40d91</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6bcae03-dbd4-406e-aeb6-a4aed5d40d91</dc:identifier>
+        <dc:title>Hagakure</dc:title>
+        <dc:creator opf:file-as="TSUNETOMO, YAMAMOTO" opf:role="aut">Tsunetoma Yamamoto</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.5.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;The &lt;I&gt;Hagakure&lt;/I&gt; is one of the most influential of all Japanese texts&amp;#8212;written nearly 300 years ago by Tsunetomo Yamamoto to summarize the very essence of the Japanese Samurai &lt;I&gt;bushido&lt;/I&gt; ("warrior") spirit. Its influence has been felt throughout the world and yet its existence is scarcely known to many Westerners. This is the first translation to include the complete first two books of the &lt;I&gt;Hagakure&lt;/I&gt; and the most reliable and authentic passages contained within the third book; all other English translations published previously have been extremely fragmentary and incomplete.&lt;BR&gt;Alex Bennett's completely new and highly readable translation of this essential work includes extensive footnotes that serve to fill in many cultural and historical gaps in the previous translations. This unique combination of readability and scholarship gives Bennett's translation a distinct advantage over all previous English editions.</dc:description>
+        <dc:publisher>Tuttle Publishing</dc:publisher>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
