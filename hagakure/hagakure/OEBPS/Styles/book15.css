@@ -1,0 +1,245 @@
+body {font-size: 1.0em; text-align: justify;}
+p {font-size: 1.0em;}
+
+.textStyle0  { font-family: 'Covington-Bold', Covington, sans-serif; font-size: 267%; font-weight:bold;  } 
+.textStyle1  { font-family: 'Heroic Condensed-Medium', Heroic, sans-serif; font-size: 91%; color:#010202; } 
+.textStyle2  { font-family: 'Lexus Roman Opti-Book', Lexus, sans-serif; font-size: 114%;  } 
+.textStyle3  { font-family: 'Lexus Roman Opti-Book', Lexus, sans-serif; font-size: 95%;  } 
+.textStyle4  { font-family: 'Lexus Roman Opti-Regular', Lexus, serif; font-size: 95%;  } 
+.textStyle5  { font-family: 'Lexus Roman Opti-Regular', Lexus, serif; font-size: 77%;  } 
+.textStyle6  { font-family: 'Akzidenz Grot Ext BQ-Regular', Akzidenz, sans-serif; font-size: 114%;  } 
+.textStyle7  { font-family: 'Akzidenz Grot Ext BQ-Regular', Akzidenz, sans-serif; font-size: 91%;  } 
+.textStyle8  { font-family: 'Covington-Bold', Covington, sans-serif; font-size: 533%; font-weight:bold;  } 
+.textStyle9  { font-family: 'Heroic Condensed-Medium', Heroic, sans-serif; font-size: 183%; color:#010202; } 
+.textStyle10 { font-family: 'Minion Pro-Regular', Minion, serif; font-size: 86%;  } 
+.textStyle11 { font-family: 'Minion Pro-Semibold', Minion, serif; font-size: 86%; font-weight:bold;  } 
+.textStyle12 { font-family: 'Minion Pro-Regular', Minion, serif; font-size: 143%;  } 
+.textStyle13 { font-family: 'MyriadPro-Bold', Cantoria, serif; font-size: 95%; font-weight:bold;  } 
+.textStyle14 { font-family: 'MyriadPro-Bold', Cantoria, serif; font-size: 86%; font-weight:bold;  } 
+.textStyle15 { font-family: 'MyriadPro-Bold', Cantoria, serif; font-size: 133%; font-weight:bold;  } 
+.textStyle16 { font-family: 'Minion Pro-Regular', Minion, serif; font-size: 297%;  } 
+.textStyle17 { font-family: 'Minion Pro-Regular', Minion, serif; font-size: 100%;  } 
+.textStyle18 { font-family: 'Minion Pro-It', Minion, sans-serif; font-size: 100%; font-style:italic;  } 
+.textStyle19 { font-family: 'Minion Pro-It', Minion, sans-serif; font-size: 297%; font-style:italic;  } 
+.textStyle20 { font-family: 'Minion Pro-Regular', Minion, serif; font-size: 56%;  } 
+.textStyle21 { font-family: 'Minion Pro-Regular', Minion, serif; font-size: 76%;  } 
+.textStyle22 { font-family: 'Minion Pro-It', Minion, sans-serif; font-size: 76%; font-style:italic;  } 
+.textStyle23 { font-family: 'MSMINCHO', Hira, serif; font-size: 74%;  } 
+.textStyle24 { font-family: 'Cantoria MT-Extra Bold Italic', Cantoria, serif; font-size: 133%; font-weight:bold; font-style:italic;  } 
+.textStyle25 { font-family: 'Minion Pro-Regular', Minion, serif; font-size: 58%;  } 
+.textStyle26 { font-family: 'Minion Pro-Bold It', Cantoria, serif; font-size: 86%; font-weight:bold; font-style:italic;  } 
+.textStyle27 { font-family: 'Minion Pro-Bold', Minion, sans-serif; font-size: 95%; font-weight:bold;  } 
+.textStyle28 { font-family: 'Minion Pro-Bold It', Minion, sans-serif; font-size: 95%; font-weight:bold; font-style:italic;  } 
+.textStyle29 { font-family: 'Minion Pro-Semibold', Minion, serif; font-size: 95%; font-weight:bold;  } 
+.textStyle30 { font-family: 'Minion Pro-Medium', Minion, sans-serif; font-size: 90%;  } 
+.textStyle31 { font-family: 'MyriadPro-Bold', Cantoria, serif; font-size: 210%; font-weight:bold;  } 
+.textStyle32 { font-family: 'Minion Pro-Bold It', Minion, serif; font-size: 105%; font-weight:bold; font-style:italic;  } 
+.textStyle33 { font-family: 'Minion Pro-Bold', Minion, sans-serif; font-size: 100%; font-weight:bold;  } 
+.textStyle35 { font-family: 'MSMINCHO', Han, serif; font-size: 381%; color:#bfbfbf; } 
+.textStyle36 { font-family: 'Minion Pro-Bold', Minion, sans-serif; font-size: 100%; font-weight:bold;  } 
+.textStyle37 { font-family: 'Minion Pro-Semibold', Minion, serif; font-size: 76%; font-weight:bold;  } 
+.textStyle38 { font-family: 'MSMINCHO', Hira, serif; font-size: 95%;  } 
+
+.textStyle40 { font-family: 'MSMINCHO', Han, serif; font-size: 333%; color:#bfbfbf; } 
+.textStyle41 { font-family: 'Minion Pro-Bold', Minion, sans-serif; font-size: 86%; font-weight:bold; color:#ffffff; } 
+.textStyle42 { font-family: 'AGaramond Pro-Regular', AGaramond, serif; font-size: 105%;  } 
+.textStyle43 { font-family: 'Minion Pro-Regular', Minion, serif; font-size: 105%;  } 
+.textStyle44 { font-family: 'MSMINCHO', MS, serif; font-size: 100%;  } 
+.textStyle45 { font-family: 'Myriad Pro-Regular', Myriad, sans-serif; font-size: 81%;  } 
+.textStyle46 { font-family: 'Myriad Pro-It', Myriad, sans-serif; font-size: 81%; font-style:italic;  } 
+.textStyle47 { font-family: 'Myriad Pro-Regular', Myriad, sans-serif; font-size: 47%;  } 
+.textStyle53 { font-family: 'Lexus Roman Opti-Bold', Lexus, serif; font-size: 114%; font-weight:bold;  } 
+.textStyle54 { font-family: 'Minion Pro-Regular', Minion, serif; font-size: 114%;  } 
+.textStyle55 { font-family: 'Frutiger-Light Cn', Frutiger, sans-serif; font-size: 86%;  }
+
+@font-face { 
+font-family: "MSMINCHO"; 
+font-weight: normal; 
+font-style: normal; 
+src:url(../Fonts/MSMINCHO.TTF);
+}
+@font-face { 
+font-family: "Frutiger-Light Cn"; 
+font-weight: normal; 
+font-style: normal; 
+src:url(../Fonts/Frutiger_Light_Cn.ttf);
+} 
+@font-face { 
+font-family: "AGaramond Pro-Regular"; 
+font-weight: normal; 
+font-style: normal; 
+src:url(../Fonts/AGaramondPro-Regular.otf);
+} 
+@font-face { 
+font-family: "Lexus Roman Opti-Book"; 
+font-weight: normal; 
+font-style: normal; 
+src:url(../Fonts/LexusRomanOpti-Book.otf);
+} 
+@font-face { 
+font-family: "Lexus Roman Opti-Book"; 
+font-weight: normal; 
+font-style: normal; 
+src:url(../Fonts/LexusRomanOpti-Regular.otf); 
+}
+@font-face { 
+font-family: "Minion Pro-Regular"; 
+font-weight: normal; 
+font-style: normal; 
+src:url(../Fonts/MinionPro-Medium.otf); 
+}
+@font-face { 
+font-family: "Heroic Condensed-Medium"; 
+font-weight: normal; 
+font-style: normal; 
+src:url(../Fonts/HeroicCondensed-Medium.otf); 
+}
+@font-face { 
+font-family: "Akzidenz Grot Ext BQ-Regular"; 
+font-weight: normal; 
+font-style: normal; 
+src:url(../Fonts/AkzidenzGroteskBE-Md.otf); 
+}
+@font-face { font-family: 'Minion Pro-It'; font-weight: normal; font-style: italic; src:url(../Fonts/MinionPro-MediumIt.otf); }
+@font-face { 
+font-family: "Covington-Bold"; 
+font-weight: bold; 
+font-style: normal; 
+src:url(../Fonts/Covington-Bold.ttf); 
+} 
+@font-face { 
+font-family: "MyriadPro-Bold"; 
+font-weight: bold; 
+font-style: normal; 
+src:url(../Fonts/timesbd.ttf); 
+} 
+@font-face { 
+font-family: "Minion Pro-Semibold"; 
+font-weight: bold; 
+font-style: normal; 
+src:url(../Fonts/MinionPro-Semibold.otf); 
+} 
+@font-face { 
+font-family: "Minion Pro-Bold"; 
+font-weight: bold; 
+font-style: normal; 
+src:url(../Fonts/timesbd.ttf); 
+} 
+@font-face { 
+font-family: "Minion Pro-Bold It"; 
+font-weight: bold; 
+font-style: italic; 
+src:url(../Fonts/timesbi.ttf); 
+} 
+@font-face { 
+font-family: "MyriadPro-BoldIt"; 
+font-weight: bold; 
+font-style: italic; 
+src:url(../Fonts/MyriadPro-BoldIt.otf); 
+} 
+
+
+
+
+ .indentedpara {
+  display: block;
+  margin-bottom: 0em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0.25em;
+  text-indent: 1.5em
+  }
+
+ .indentedpara1 {
+  display: block;
+  margin-bottom: 0em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 1em;
+  text-indent: 0em
+  }
+
+.indentedpara11 {
+  display: block;
+  margin-bottom: 0em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0em;
+  text-indent: 0em
+  }
+
+.indentedpara2 {
+  display: block;
+  margin-bottom: 0em;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0em;
+  text-indent: 0em
+  }
+
+.rev {
+  display: block;
+  margin-bottom: 0em;
+  margin-top: 0em;
+  margin-left: 1.5em;
+  margin-right: 0;
+  text-indent: -1.5em
+  }
+
+.rr {
+  display: block;
+  margin-bottom: 0em;
+  margin-top: 0.2em;
+  margin-left: 3em;
+  margin-right: 0;
+  text-indent: -1.5em
+  }
+
+.rr1 {
+  display: block;
+  margin-bottom: 0em;
+  margin-top: 0.2em;
+  margin-left: 3em;
+  margin-right: 0;
+  text-indent: 0em
+  }
+
+.r1 {
+  display: block;
+  margin-bottom: 0em;
+  margin-top: 0.5em;
+  margin-left: 1.5em;
+  margin-right: 0;
+  text-indent: -1.5em
+  }
+
+.f1 {
+  display: block;
+  margin-bottom: 0em;
+  margin-top: 0em;
+  margin-left: 1em;
+  margin-right: 0;
+  text-indent: -1em
+  }
+
+a.sgc-1{text-decoration: none;}
+div.side-margin{margin-left: 1em; margin-right: 1em;}
+.head{text-align: left; margin-top: 5em; margin-bottom: 2em; }
+.centertb {text-align: center; margin-bottom: 0em; margin-top: 0em;}
+.centert {text-align: center; margin-bottom: 2em; margin-top: 3em;}
+.c1 {text-align: center; margin-bottom: 1em; margin-top: 2em;}
+.center1 {text-align: center;}
+.rgt {text-align: left; margin-left: 40%; margin-top: 1.5em;}
+.rgt1 {text-align: right; margin-bottom: 0em;}
+.suptext {
+        font-family: 'Minion Pro-Regular', Minion, serif;
+        font-size: 70%;
+
+  }
+
+span.drop {font-size: 350%; line-height: 1; height: 0.7em; float: left; margin: -0.1em 0em 0em 0em; }
+span.first { margin-left: -1.0em; white-space: pre; } 
+span.after { margin-left: 0em; }
+p.initial + p { clear: left; }
+
+div.box {padding-bottom: 0.5em; padding-top: 0.5em; padding-left: 0.5em; padding-right: 0.5em; margin-top: 0.50em;  margin-bottom: 0.50em; background-color: #bcbdc0;}

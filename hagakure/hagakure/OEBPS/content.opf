@@ -1,0 +1,96 @@
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:publisher>Tuttle Publishing</dc:publisher>
+    <meta content="Hagakure" name="calibre:title_sort"/>
+    <dc:language>en</dc:language>
+    <dc:language>ja</dc:language>
+    <dc:title>Hagakure</dc:title>
+    <dc:creator opf:file-as="TSUNETOMO, YAMAMOTO" opf:role="aut">Tsunetoma Yamamoto</dc:creator>
+    <meta content="cover" name="cover"/>
+    <dc:contributor opf:role="bkp">calibre (1.33.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">708d52a4-08c1-4500-a849-5ccc869fff9d</dc:identifier>
+    <dc:identifier opf:scheme="calibre">708d52a4-08c1-4500-a849-5ccc869fff9d</dc:identifier>
+    <meta content="0.5.3" name="Sigil version"/>
+  <description xmlns="http://purl.org/dc/elements/1.1/">&lt;p&gt;The &lt;I&gt;Hagakure&lt;/I&gt; is one of the most influential of all Japanese texts&amp;#8212;written nearly 300 years ago by Tsunetomo Yamamoto to summarize the very essence of the Japanese Samurai &lt;I&gt;bushido&lt;/I&gt; ("warrior") spirit. Its influence has been felt throughout the world and yet its existence is scarcely known to many Westerners. This is the first translation to include the complete first two books of the &lt;I&gt;Hagakure&lt;/I&gt; and the most reliable and authentic passages contained within the third book; all other English translations published previously have been extremely fragmentary and incomplete.&lt;BR&gt;Alex Bennett's completely new and highly readable translation of this essential work includes extensive footnotes that serve to fill in many cultural and historical gaps in the previous translations. This unique combination of readability and scholarship gives Bennett's translation a distinct advantage over all previous English editions.</description>
+</metadata>
+  <manifest>
+    <item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+	<item href="Images/backcover.jpg" id="backcover" media-type="image/jpeg"/>
+	<item href="Images/ad.jpg" id="ad" media-type="image/jpeg"/>
+	<item href="Images/hierarchy.jpg" id="hierarchy" media-type="image/jpeg"/>
+	<item href="Images/l1.jpg" id="l1" media-type="image/jpeg"/>
+	<item href="Images/p24.jpg" id="p24" media-type="image/jpeg"/>
+	<item href="Images/gyph.jpg" id="gyph" media-type="image/jpeg"/>
+	<item href="Images/halftitle.jpg" id="halftitle" media-type="image/jpeg"/>
+	<item href="Images/titlepage.jpg" id="titlepagex" media-type="image/jpeg"/>
+		<item href="Images/book1.jpg" id="book1" media-type="image/jpeg"/>
+			<item href="Images/book2.jpg" id="book2" media-type="image/jpeg"/>
+				<item href="Images/book3.jpg" id="book3" media-type="image/jpeg"/>	
+	<item href="Fonts/AGaramondPro-Regular.otf" id="AGaramondPro-Regular.otf" media-type="application/vnd.ms-opentype"/>
+        <item href="Fonts/AkzidenzGroteskBE-Md.otf" id="AkzidenzGroteskBE-Md.otf" media-type="application/vnd.ms-opentype"/>
+        <item href="Fonts/Covington-Bold.ttf" id="Covington-Bold.ttf" media-type="application/x-font-ttf"/>
+        <item href="Fonts/Frutiger_Light_Cn.ttf" id="Frutiger_Light_Cn.ttf" media-type="application/x-font-ttf"/>
+        <item href="Fonts/HeroicCondensed-Medium.otf" id="HeroicCondensed-Medium.otf" media-type="application/vnd.ms-opentype"/>
+        <item href="Fonts/LexusRomanOpti-Book.otf" id="LexusRomanOpti-Book.otf" media-type="application/vnd.ms-opentype"/>
+        <item href="Fonts/LexusRomanOpti-Regular.otf" id="LexusRomanOpti-Regular.otf" media-type="application/vnd.ms-opentype"/>
+        <item href="Fonts/MSMINCHO.TTF" id="MSMINCHO.TTF" media-type="application/x-font-ttf"/>
+        <item href="Fonts/MinionPro-Bold.otf" id="MinionPro-Bold.otf" media-type="application/vnd.ms-opentype"/>
+        <item href="Fonts/MinionPro-It.otf" id="MinionPro-It.otf" media-type="application/vnd.ms-opentype"/>
+        <item href="Fonts/MinionPro-Medium.otf" id="MinionPro-Medium.otf" media-type="application/vnd.ms-opentype"/>
+        <item href="Fonts/MinionPro-MediumIt.otf" id="MinionPro-MediumIt.otf" media-type="application/vnd.ms-opentype"/>
+        <item href="Fonts/MinionPro-Regular.otf" id="MinionPro-Regular.otf" media-type="application/vnd.ms-opentype"/>
+        <item href="Fonts/MinionPro-Semibold.otf" id="MinionPro-Semibold.otf" media-type="application/vnd.ms-opentype"/>
+        <item href="Fonts/MyriadPro-Bold.otf" id="MyriadPro-Bold.otf" media-type="application/vnd.ms-opentype"/>
+        <item href="Fonts/MyriadPro-BoldIt.otf" id="MyriadPro-BoldIt.otf" media-type="application/vnd.ms-opentype"/>
+        <item href="Fonts/timesbd.ttf" id="timesbd.ttf" media-type="application/x-font-ttf"/>
+        <item href="Fonts/timesbi.ttf" id="timesbi.ttf" media-type="application/x-font-ttf"/>
+    <item href="Text/Hagakure-New-Ming-1.html" id="Hagakure-New-Ming-1" media-type="application/xhtml+xml"/>
+    <item href="Text/Hagakure-New-Ming-10.html" id="Hagakure-New-Ming-10" media-type="application/xhtml+xml"/>
+    <item href="Text/Hagakure-New-Ming-11.html" id="Hagakure-New-Ming-11" media-type="application/xhtml+xml"/>
+    <item href="Text/Hagakure-New-Ming-12.html" id="Hagakure-New-Ming-12" media-type="application/xhtml+xml"/>
+    <item href="Text/Hagakure-New-Ming-13.html" id="Hagakure-New-Ming-13" media-type="application/xhtml+xml"/>
+    <item href="Text/Hagakure-New-Ming-14.html" id="Hagakure-New-Ming-14" media-type="application/xhtml+xml"/>
+    <item href="Text/Hagakure-New-Ming-15.html" id="Hagakure-New-Ming-15" media-type="application/xhtml+xml"/>
+    <item href="Text/Hagakure-New-Ming-16.html" id="Hagakure-New-Ming-16" media-type="application/xhtml+xml"/>
+    <item href="Text/Hagakure-New-Ming-17.html" id="Hagakure-New-Ming-17" media-type="application/xhtml+xml"/>
+    <item href="Text/Hagakure-New-Ming-2.html" id="Hagakure-New-Ming-2" media-type="application/xhtml+xml"/>
+    <item href="Text/Hagakure-New-Ming-3.html" id="Hagakure-New-Ming-3" media-type="application/xhtml+xml"/>
+    <item href="Text/Hagakure-New-Ming-4.html" id="Hagakure-New-Ming-4" media-type="application/xhtml+xml"/>
+    <item href="Text/Hagakure-New-Ming-5.html" id="Hagakure-New-Ming-5" media-type="application/xhtml+xml"/>
+    <item href="Text/Hagakure-New-Ming-6.html" id="Hagakure-New-Ming-6" media-type="application/xhtml+xml"/>
+    <item href="Text/Hagakure-New-Ming-7.html" id="Hagakure-New-Ming-7" media-type="application/xhtml+xml"/>
+    <item href="Text/Hagakure-New-Ming-8.html" id="Hagakure-New-Ming-8" media-type="application/xhtml+xml"/>
+    <item href="Text/Hagakure-New-Ming-9.html" id="Hagakure-New-Ming-9" media-type="application/xhtml+xml"/>
+    <item href="Text/Hagakure-New-Ming.html" id="Hagakure-New-Ming" media-type="application/xhtml+xml"/>
+    <item href="Styles/page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="Styles/stylesheet.css" id="stylesheet" media-type="text/css"/>
+    <item href="Styles/book15.css" id="css" media-type="text/css"/>	
+    <item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="Hagakure-New-Ming"/>
+    <itemref idref="Hagakure-New-Ming-1"/>
+    <itemref idref="Hagakure-New-Ming-2"/>
+    <itemref idref="Hagakure-New-Ming-3"/>
+    <itemref idref="Hagakure-New-Ming-4"/>
+    <itemref idref="Hagakure-New-Ming-5"/>
+    <itemref idref="Hagakure-New-Ming-6"/>
+    <itemref idref="Hagakure-New-Ming-7"/>
+    <itemref idref="Hagakure-New-Ming-8"/>
+    <itemref idref="Hagakure-New-Ming-9"/>
+    <itemref idref="Hagakure-New-Ming-10"/>
+    <itemref idref="Hagakure-New-Ming-11"/>
+    <itemref idref="Hagakure-New-Ming-12"/>
+    <itemref idref="Hagakure-New-Ming-13"/>
+    <itemref idref="Hagakure-New-Ming-14"/>
+    <itemref idref="Hagakure-New-Ming-15"/>
+    <itemref idref="Hagakure-New-Ming-16"/>
+    <itemref idref="Hagakure-New-Ming-17"/>
+  </spine>
+  <guide>
+    <reference href="Text/titlepage.xhtml" title="Cover" type="cover"/>
+    <reference href="Text/Hagakure-New-Ming-3.html" title="Table of Contents" type="toc"/>	
+  </guide>
+</package>

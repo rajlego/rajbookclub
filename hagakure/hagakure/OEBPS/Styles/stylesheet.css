@@ -1,0 +1,630 @@
+
+@font-face { 
+font-family: "MSMINCHO"; 
+font-weight: normal; 
+font-style: normal; 
+src:url(../Fonts/MSMINCHO.TTF);
+}
+@font-face { 
+font-family: "Frutiger-Light Cn"; 
+font-weight: normal; 
+font-style: normal; 
+src:url(../Fonts/Frutiger_Light_Cn.ttf);
+} 
+@font-face { 
+font-family: "AGaramond Pro-Regular"; 
+font-weight: normal; 
+font-style: normal; 
+src:url(../Fonts/AGaramondPro-Regular.otf);
+} 
+@font-face { 
+font-family: "Lexus Roman Opti-Book"; 
+font-weight: normal; 
+font-style: normal; 
+src:url(../Fonts/LexusRomanOpti-Book.otf);
+} 
+@font-face { 
+font-family: "Lexus Roman Opti-Book"; 
+font-weight: normal; 
+font-style: normal; 
+src:url(../Fonts/LexusRomanOpti-Regular.otf); 
+}
+@font-face { 
+font-family: "Minion Pro-Regular"; 
+font-weight: normal; 
+font-style: normal; 
+src:url(../Fonts/MinionPro-Medium.otf); 
+}
+@font-face { 
+font-family: "Heroic Condensed-Medium"; 
+font-weight: normal; 
+font-style: normal; 
+src:url(../Fonts/HeroicCondensed-Medium.otf); 
+}
+@font-face { 
+font-family: "Akzidenz Grot Ext BQ-Regular"; 
+font-weight: normal; 
+font-style: normal; 
+src:url(../Fonts/AkzidenzGroteskBE-Md.otf); 
+}
+@font-face { font-family: 'Minion Pro-It'; font-weight: normal; font-style: italic; src:url(../Fonts/MinionPro-MediumIt.otf); }
+@font-face { 
+font-family: "Covington-Bold"; 
+font-weight: bold; 
+font-style: normal; 
+src:url(../Fonts/Covington-Bold.ttf); 
+} 
+@font-face { 
+font-family: "MyriadPro-Bold"; 
+font-weight: bold; 
+font-style: normal; 
+src:url(../Fonts/timesbd.ttf); 
+} 
+@font-face { 
+font-family: "Minion Pro-Semibold"; 
+font-weight: bold; 
+font-style: normal; 
+src:url(../Fonts/MinionPro-Semibold.otf); 
+} 
+@font-face { 
+font-family: "Minion Pro-Bold"; 
+font-weight: bold; 
+font-style: normal; 
+src:url(../Fonts/timesbd.ttf); 
+} 
+@font-face { 
+font-family: "Minion Pro-Bold It"; 
+font-weight: bold; 
+font-style: italic; 
+src:url(../Fonts/timesbi.ttf); 
+} 
+@font-face { 
+font-family: "MyriadPro-BoldIt"; 
+font-weight: bold; 
+font-style: italic; 
+src:url(../Fonts/MyriadPro-BoldIt.otf); 
+} 
+
+
+
+.Basic-Table {
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: -4px;
+    margin-top: 4px;
+    text-indent: 0;
+    border: #000 solid 1px
+    }
+.body-indent {
+    color: #000;
+    display: block;
+    font-family: 'Minion Pro-Regular', Minion, serif;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.24;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: -16px;
+    margin: 0 0 3px 30px
+    }
+.bodytext {
+    color: #000;
+    display: block;
+	font-family: 'Minion Pro-Regular', Minion, serif;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.24;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 0
+    }
+.bodytext1 {
+    color: #000;
+    display: block;
+    font-family: 'Minion Pro-Regular', Minion, serif;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.24;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 0
+    }
+.bodytext2 {
+    color: #000;
+    display: block;
+    font-family: 'Minion Pro-Regular', Minion, serif;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.24;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 14px;
+    margin: 0
+    }
+	.bodytext2x {
+    color: #000;
+    display: block;
+    font-family: 'Minion Pro-Regular', Minion, serif;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.24;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 14px;
+    margin: 0
+    }
+.Bold-Italic {
+	font-family: 'Minion Pro-Bold It', Minion, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+	font-size: 115%; 
+    }
+	.Boldital {
+		font-family: 'Minion Pro-Bold It', Minion, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+	}
+	
+.by {
+    color: #000;
+    display: block;
+    font-family: 'Minion Pro-Regular', Minion, serif;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.24;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 0 0 0 4em;
+    }
+.calibre {
+    display: block;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    display: table-row-group;
+    vertical-align: middle;
+    border: inherit inherit inherit
+    }
+.calibre3 {
+    display: table-row;
+    vertical-align: inherit;
+    border: inherit inherit inherit
+    }
+.cell-style-override {
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: inherit;
+    padding: 0;
+    border: inherit inherit inherit
+    }
+.cell-style-override1 {
+    display: table-cell;
+    text-align: inherit;
+    vertical-align: inherit;
+    padding: 6px;
+    border: inherit inherit inherit
+    }
+.chapter {
+    color: #000;
+    display: block;
+    font-family: 'Minion Pro-Bold', Minion, sans-serif;
+    font-size: 1.25em;
+    font-stretch: condensed;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 0
+    }
+	
+.char-style-override {
+    font-size: 0.86em
+    }
+.char-style-override1 {
+    float: left;
+    font-size: 2.905em;
+    line-height: 1;
+    margin-bottom: -0.273em;
+    margin-right: 0.05em;
+    margin-top: -0.073em
+    }
+.char-style-override2 {
+    float: left;
+    font-family: 'Minion Pro-It', Minion, sans-serif;
+    font-size: 2.908em;
+    font-style: italic;
+    font-weight: normal;
+    line-height: 1;
+    margin-bottom: -0.273em;
+    margin-right: 0.05em;
+    margin-top: -0.074em
+    }
+.char-style-override3 {
+    font-variant: small-caps
+    }
+.char-style-override4 {
+    font-family: "Adobe Garamond Pro", serif;
+    font-size: 1.05em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2
+    }
+.char-style-override5 {
+    font-size: 1.05em;
+    line-height: 1.2
+    }
+.Chart {
+    color: #000;
+    display: block;
+    font-family: 'Minion Pro-Regular', Minion, serif;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.24;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 0
+    }
+.cnter {
+    color: #000;
+    display: block;
+   font-family: 'Minion Pro-Regular', Minion, serif;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 0
+    }
+.con {
+    color: #000;
+    display: block;
+    font-family: 'Minion Pro-Bold', Minion, sans-serif;
+    font-size: 0.83em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.3;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: uppercase;
+    margin: 0 0 6px
+    }
+.copy {
+    color: #000;
+    display: block;
+   font-family: 'Minion Pro-Regular', Minion, serif;
+    font-size: 0.75em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 0
+    }
+.FN-no {
+    color: #000;
+    font-family: 'Minion Pro-Regular', Minion, serif;
+	font-size:xx-small;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    vertical-align: super;
+    }
+.FN-no1 {
+    color: #000;
+    font-family: 'Minion Pro-Regular', Minion, serif;
+   	font-size:xx-small;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    vertical-align: super
+    }
+.FN-no2 {
+    color: #000;
+    font-family: 'Minion Pro-Regular', Minion, serif;
+   	font-size:xx-small;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    vertical-align: super
+    }
+.Footnote {
+    color: #000;
+    display: block;
+    font-family: 'Minion Pro-Regular', Minion, serif;
+    font-size: 0.67em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.25;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: -9px;
+    margin: 0 0 0 9px
+    }
+.Footnote-Japanese {
+	font-family: 'MSMINCHO', Hira, serif;
+    font-size: 0.97em;
+    font-style: normal;
+    font-weight: 300
+    }
+.head {
+    color: #000;
+    display: block;
+    font-family: "Myriad Pro", sans-serif;
+    font-size: 0.75em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 1.67;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: uppercase;
+    margin: 2.5em 0 1em
+    }
+.img {
+    color: #000;
+    display: block;
+    font-family: 'Minion Pro-Regular', Minion, serif;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 9px 0
+    }
+	
+	imgx {
+    color: #000;
+    display: block;
+    font-family: 'Minion Pro-Regular', Minion, serif;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 5em 0
+    }
+.italic {
+	font-family: 'Minion Pro-It', Minion, sans-serif;
+    font-style: italic;
+    font-weight: normal
+    }
+.Italic-text {
+    color: #000;
+    display: block;
+    font-family: 'Minion Pro-It', Minion, sans-serif;
+    font-size: 0.88em;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.24;
+    text-align: left;
+    text-decoration: none;
+    margin: 0 0 0 0
+    }
+	
+	.Italic-textx {
+    color: #000;
+    display: block;
+    font-family: 'Minion Pro-It', Minion, sans-serif;
+    font-size: 0.88em;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.24;
+    text-align: center;
+    text-decoration: none;
+    text-indent: -15px;
+    margin: 0 0 0 29px
+    }
+.Japanese {
+	font-family: 'MSMINCHO', Hira, serif;
+    font-size: 0.95em;
+    font-style: normal;
+    font-weight: 300
+    }
+.NEW-number-at-start {
+    font-style: normal;
+    font-weight: bold
+    }
+.No-Paragraph-Style {
+    color: #000;
+    display: block;
+    font-family: 'Minion Pro-Regular', Minion, serif;
+    font-size: 1em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 0
+    }
+.No-Table-Style {
+    border-collapse: collapse;
+    border-spacing: 2px;
+    display: table;
+    margin-bottom: -4px;
+    margin-top: 4px;
+    text-indent: 0;
+    border: #000 solid 0.5px
+    }
+.Normal {
+    color: #000;
+    display: block;
+    font-family: Century, serif;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 0
+    }
+.numbered {
+    color: #000;
+    display: block;
+    font-family: 'Minion Pro-Regular', Minion, serif;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.24;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 0 0 0 14px
+    }
+.quote {
+    color: #000;
+    display: block;
+    font-family: "Minion Pro SmBd", serif;
+    font-size: 0.83em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 600;
+    line-height: 1.3;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: 0;
+    margin: 23px 23px
+    }
+.References {
+    color: #000;
+    display: block;
+    font-family: 'Minion Pro-Regular', Minion, serif;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.28;
+    text-align: justify;
+    text-decoration: none;
+    text-indent: -9px;
+    margin: 0 0 4px 9px
+    }
+.Row-Column {
+    background-color: #e6e6e6;
+    display: table-row;
+    vertical-align: inherit;
+    border: inherit inherit inherit
+    }
+.Row-Column1 {
+    background-color: #d9d9d9;
+    display: table-row;
+    vertical-align: inherit;
+    border: inherit inherit inherit
+    }
+.semibold {
+	font-family: 'Minion Pro-Regular', Minion, serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2
+    }
+.semibold1 {
+	font-family: 'Minion Pro-Regular', Minion, serif;
+    font-style: normal;
+    font-weight: normal;
+    }
+.semibold1x {
+    font-family: 'Minion Pro-Bold', Minion, sans-serif;
+	font-style: normal;
+    font-weight: bold;
+	font-size: 115%; 
+    }
+.semibold1xx {
+    font-family: 'Minion Pro-Bold', Minion, sans-serif;
+	font-style: normal;
+    font-weight: bold;
+    }
+.semibold2 {
+    font-family: 'Minion Pro-Bold', Minion, sans-serif;
+	font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    }
+.start {
+    color: #000;
+    display: block;
+    font-family: 'Minion Pro-Regular', Minion, serif;
+    font-size: 0.88em;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.24;
+    text-align: right;
+    text-decoration: none;
+    text-indent: 14px;
+    margin: 0
+    }
+.tabletxt-white {
+    color: #fff;
+    display: block;
+    font-family: "Myriad Pro Light", sans-serif;
+    font-size: 0.75em;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1.67;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: uppercase;
+    margin: 11px 0 3px
+    }
+.ttext {
+    color: #000;
+    display: block;
+    font-family: "Myriad Pro", sans-serif;
+    font-size: 0.75em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.33;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0;
+    text-transform: uppercase;
+    margin: 0 0 3px 17px
+    }
